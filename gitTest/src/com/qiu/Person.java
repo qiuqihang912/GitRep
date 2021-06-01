@@ -2,5 +2,5 @@ package com.qiu;
 
 public class Person {
     private int age;
-    private String name;
+    private String size;
 }
